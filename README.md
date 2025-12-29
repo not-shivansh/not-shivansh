@@ -12,10 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=not-shivansh&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=not-shivansh&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=not-shivansh&theme=bear&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
