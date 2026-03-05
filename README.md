@@ -3,8 +3,11 @@
 💻 Programmer | Machine Learning | DSA | Backend Development
 
 🔭 Currently working on: Data Structures & Algorithms in C++, Machine Learning and Spring Boot Development
+
 🌱 Currently learning: Data Science, Machine Learning, and System Design  
+
 👯 Looking to collaborate on: Open-source machine learning projects and data-driven applications  
+
 🤝 Looking for help with: Advanced DSA and applied ML use cases  
 
 ⚡ **“परिवर्तनम् एव स्थिरम्” — Change is the only constant**
