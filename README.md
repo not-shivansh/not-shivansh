@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Shivansh
 
-💻 Programmer | Machine Learning | DSA | Backend Development
-
-🔭 Currently working on: Data Structures & Algorithms in C++, Machine Learning and Spring Boot Development
+💻 Programmer | Machine Learning | DSA | Python Development
 
 🌱 Currently learning: Data Science, Machine Learning, and System Design  
 
