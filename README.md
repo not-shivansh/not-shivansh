@@ -1,4 +1,4 @@
- 👋 Hi, I'm **[Shivansh Thakur]**(https://shivansh-thakur.netlify.app/)
+# 👋 Hi, I'm [Shivansh Thakur]
 
 💻 Programmer | Machine Learning | DSA | Python Development
 
@@ -11,6 +11,9 @@
 ⚡ **“परिवर्तनम् एव स्थिरम्” — Change is the only constant**
 
 ---
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c6fff?style=for-the-badge)](https://shivansh-thakur.netlify.app/)
 
 ## 🌐 Connect With Me
 
