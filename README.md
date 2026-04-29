@@ -1,5 +1,4 @@
-# 👋 Hi, I'm 
-[Shivansh Thakur](https://shivansh-thakur.netlify.app/)
+ 👋 Hi, I'm **[Shivansh Thakur]**(https://shivansh-thakur.netlify.app/)
 
 💻 Programmer | Machine Learning | DSA | Python Development
 
