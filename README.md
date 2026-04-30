@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Shivansh Thakur]
+# 👋 Hi, I'm Shivansh Thakur
 
 💻 Programmer | Machine Learning | DSA | Python Development
 
