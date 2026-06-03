@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivansh Thakur
 
-💻 Programmer | Machine Learning | DSA | Python Development
+💻 Programmer | Machine Learning | DSA | Java Full Stack
 
 🌱 Currently learning: Data Science, Machine Learning, and System Design  
 
